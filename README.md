@@ -1,12 +1,11 @@
 # Document-classification
 
 *Overview*
+
 This project aims to classify documents into predefined categories such as emails, resumes, scientific papers, and more. It utilizes machine learning techniques to extract meaningful features from text 
 and classify documents efficiently.
 
 *Features*
-
-
 1.Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
 
 2. Feature extraction using TF-IDF or word embeddings
