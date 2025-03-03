@@ -7,7 +7,7 @@ and classify documents efficiently.
 *Features*
 
 
-  1.Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
+1.Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
 
 2. Feature extraction using TF-IDF or word embeddings
 
@@ -18,8 +18,7 @@ and classify documents efficiently.
 5. Evaluation metrics such as accuracy, precision, recall, and F1-score
 
 6. Support for PDF, TXT, and other document formats
-
-  7.Integration with EasyOCR for text extraction from scanned documents
+7.Integration with EasyOCR for text extraction from scanned documents
 
 
 *Technologies Used:*
