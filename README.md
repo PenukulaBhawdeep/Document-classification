@@ -1,10 +1,11 @@
 # Document-classification
 
-Overview
+*Overview*
 This project aims to classify documents into predefined categories such as emails, resumes, scientific papers, and more. It utilizes machine learning techniques to extract meaningful features from text 
 and classify documents efficiently.
 
-Features
+*Features*
+
 
 1.Text preprocessing (tokenization, stopword removal, stemming/lemmatization)
 
@@ -21,7 +22,7 @@ Features
 7.Integration with EasyOCR for text extraction from scanned documents
 
 
-Technologies Used:
+*Technologies Used:*
 
 1. Python
 2. Scikit-learn
